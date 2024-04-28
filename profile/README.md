@@ -1,9 +1,11 @@
-## Unicycle-Unicorn Organization for UnicycleUnicorn.net domain domination
+## Unicycle-Unicorn Organization for [UnicycleUnicorn.net](https://unicycleunicorn.net) domain domination
 
 ---
 
 #### Hosted Projects
 
+  - Portfolio Website
+  - Landing page
   - Credentials and Access Manager
   - Email sending server
   - CORS proxy server
