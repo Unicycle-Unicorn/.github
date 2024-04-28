@@ -1,6 +1,8 @@
 ## Unicycle-Unicorn Organization for UnicycleUnicorn.net domain domination
 
-Built through a plethora of upcoming projects hosted on DigitalOcean:
+---
+
+#### Hosted Projects
 
   - Credentials and Access Manager
   - Email sending server
@@ -16,3 +18,9 @@ Built through a plethora of upcoming projects hosted on DigitalOcean:
   - Notes app (encryption option?)
     - General notes
     - To-Do
+
+---
+
+#### Hosting Plans
+
+Digital Ocean droplet running docker. Each container will be running Alpine Linux if possible and there will be one container for nginx
